@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tangugu123/tangugu123/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以使用[GitHub上的编辑器](https://github.com/tangugu123/tangugu123/edit/gh-pages/index.md)来维护和预览Markdown文件中的网站内容。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+每当你提交到这个存储库时，GitHub Pages将运行Jekyll，根据Markdown文件中的内容重新构建站点中的页面。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻量级且易于使用的语法，用于样式化您的写作。它包括以下约定:
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+更多详细信息请参见[基本写作和格式化语法](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)。
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tangugu123/tangugu123/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您的Pages站点将使用您在[repository settings](https://github.com/tangugu123/tangugu123/settings/pages)中选择的Jekyll主题的布局和样式。主题的名称保存在Jekyll ' _config中。yml的配置文件。
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+和佩奇有麻烦吗?请查看我们的[文档](https://docs.github.com/categories/github-pages-basics/)或[联系技术支持](https://support.github.com/contact)，我们将帮助您解决问题。
