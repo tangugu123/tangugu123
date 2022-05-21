@@ -11,20 +11,57 @@ Markdown是一种轻量级且易于使用的语法，用于样式化您的写作
 ```markdown
 Syntax highlighted code block
 马少军
-# Header 1
+#  谭古古
 刘栋
-## Header 2
+##  刘栋
 谭古古
-### Header 3
-史竟成
+### 史竟成
 - Bulleted
-- 刘栋
+ #include<bits/stdc++.h>
+using namespace std;
+int main(){
+	int T;cin>>T; 
+	while(T--){
+	    int t;
+	    int a,b;cin>>a>>b;
+	    if(a>b){
+	        t=a-b;
+	        if(t%2==0)cout<<"1"<<endl;
+	         else cout<<"2"<<endl;
+	    }
+	    else if(a<b){
+	        t=b-a;
+	        if(t%2==1)cout<<"1"<<endl;
+	        else cout<<"2"<<endl;
+	    }
+	    else cout<<"0"<<endl;
+	}
+	
+	return 0;
+}
 - List
-时代哦
-1. Numbered
-2. 啊啊
-3. List
-天天
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+	int T;cin>>T; 
+	while(T--){
+	    int t;
+	    int a,b;cin>>a>>b;
+	    if(a>b){
+	        t=a-b;
+	        if(t%2==0)cout<<"1"<<endl;
+	         else cout<<"2"<<endl;
+	    }
+	    else if(a<b){
+	        t=b-a;
+	        if(t%2==1)cout<<"1"<<endl;
+	        else cout<<"2"<<endl;
+	    }
+	    else cout<<"0"<<endl;
+	}
+	
+	return 0;
+}
 **Bold** and _Italic_ and `Code` text
 炸裂
 
